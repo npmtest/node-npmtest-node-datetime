@@ -1,0 +1,17 @@
+<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="222" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 11:34:38 +0000    51796 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 11:34:38 +0000     1116 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 11:34:38 +0000      323 bytes  Makefile</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 11:34:38 +0000     9565 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 11:34:38 +0000     1096 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 11:34:38 +0000     3137 bytes  lint.sh</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 11:34:38 +0000     1396 bytes  package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 11:34:38 +0000     4417 bytes  src/datetime.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 11:34:38 +0000     4411 bytes  src/timednumber.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 11:34:38 +0000     3094 bytes  src/timedstate.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 11:34:38 +0000    22656 bytes  test/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 11:34:38 +0000      585 bytes  test/performance.js</tspan>
+</text>
+</svg>
